@@ -1,0 +1,21 @@
+.container {
+	max-width: 980px;
+	text-align: center;
+	margin: 10px auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-style: solid;
+}
+
+.addressSelect {
+	text-align: center;
+}
+
+.bestOption {
+	padding: 20px;
+}
+
+.test {
+	border-style: solid;
+	border-color: red;
+}
